@@ -1,0 +1,17 @@
+*{
+	
+}
+#topo{
+	width: 800px;
+	background-color: #ccc;
+	margin: auto;
+	text-align: center;
+	font-family: arial;
+}
+#topo h1 {
+	font-size: 55px;
+}
+#topo h3{
+	font-size: 35px;
+	padding-bottom: 15px;
+}
